@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cryogenic-distillation-column-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cryogenic-distillation-column-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cryogenic Distillation Column. Play, scrub, or jump the five stages. The same frame always draws the same picture.
